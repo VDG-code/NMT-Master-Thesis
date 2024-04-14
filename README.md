@@ -14,6 +14,8 @@ The structure of this repository follows the structure of the Master thesis, so 
 
 │   ├── Data_Gathering.ipynb
 
+│   ├── Dictionary_formatting_and_cleaning_Final.ipynb
+
 │   └── Evaluation_dataset.ipynb
 
 ├── Evaluation_of_pretrained_multilingual_models
